@@ -1,5 +1,10 @@
 Winkie - Emergency Data Picker
 ==============================
+This is a work in progress...
+
+We have been working in the interaction with the IOT device, generating alerts and storing data in CloudAnt and DB2. We also decide to develop a mobile app to simulate the device with the same communication options. We are working now in the data analysis for the main application.
+
+Is possible this code isn´t work at this time.  (07/29/2019)
 
 ### Problem
 
@@ -37,7 +42,6 @@ We propose a service to communicate alerts and provide information in emergency 
 
 •	Solution with high scalability for other regions and types of disasters.
 
-We have been working in the interaction with the IOT device, generating alerts and storing data in CloudAnt and DB2. We also decide to develop a mobile app to simulate the device with the same communication options. We are working now in the data analysis for the main application.
 
 We believe our project has high scalability not only for other regions but also in another natural disasters.
 
