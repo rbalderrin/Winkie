@@ -18,14 +18,23 @@ We would use Sigfox technology, a reliable, low-power solution to connect sensor
 We propose a service to communicate alerts and provide information in emergency situations like floods which works through a system of autonomous communication, independent of electricity and internet.
 
 •	Simple and quick way to connect in real time the affected families with the assistance centers or relatives.
+
 •	Provides useful, geo-referenced information to facilitate the organization of the evacuation process.
+
 •	User friendly device, easy to operate and install.
+
 •	Configurable according to the house and family situation.
+
 •	It does not depend on any energy source or conventional communication networks to function.
+
 •	Offers recommendations and action protocols to assistance services and family members about how to proceed with the specific situation.
+
 •	Take care of the evacuated family's home, sending periodical message with temperature and humidity level, with the option of generating alerts of another relevant activity such as intrusions.
+
 •	It will have the option to add data about evacuees conditions and return home processes.
+
 •	Database for future analysis on similar events.
+
 •	Solution with high scalability for other regions and types of disasters.
 
 We have been working in the interaction with the IOT device, generating alerts and storing data in CloudAnt and DB2. We also decide to develop a mobile app to simulate the device with the same communication options. We are working now in the data analysis for the main application.
