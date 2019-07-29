@@ -1,0 +1,10 @@
+applications:
+  - path: .
+    name: BFSigFox
+    environment_json: {}
+    memory: 256M
+    instances: 1
+    disk_quota: 1024M
+    services:
+      - Internet of Things Platform-r5
+      - BFSigFox-cloudantNoSQLDB
